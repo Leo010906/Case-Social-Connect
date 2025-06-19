@@ -19,6 +19,12 @@ O site simula a apresentação de uma empresa de tecnologia focada em conectar p
 - CSS3
 - Git / GitHub
 
+
+## 🔗 Acesse o projeto online
+
+(https://leo010906.github.io/Case-Social-Connect/)
+
+
 ## 👥 Integrantes
 
 - Leandro Simoneli  
